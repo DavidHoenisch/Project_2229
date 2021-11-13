@@ -1,6 +1,9 @@
 # Projects
 
-Projects outside of work are probably the best way to learn anything that you really want to get good at.  This is how I learned linux, bash, Ansible, and a host of other cybersecurity related topics.  Do yourself a favor and take on some projects.  If you are like me you will miserably fail in the process of working on them.  But in the end, you will have a much better understanding of the over all technology than 80% of other people.  The process of failing, searching for answers, and trouble shooting has a way of teaching how a tool or concept works than anything else I can think of.  Here's a list of some of the personal projects that I have or am currently working on.
+Projects outside of work are probably the best way to learn anything that you really want to get good at.  This is how I learned linux, bash, Ansible, and a host of other cybersecurity related topics.  Do yourself a favor and take on some projects.  If you are like me you will miserably fail in the process of working on them.  But in the end, you will have a much better understanding of the over all technology than 80% of other people.  The process of failing, searching for answers, and trouble shooting has a way of teaching how a tool or concept works than anything else I can think of.  Here's a list of some of the personal projects that I have or am currently working on.  
+
+### Note: 
+For those looking to gain more experiance in cybersecurity, start some personal projects.  It shows you have a thirst to learn and a willingness and drive to push yourself to learn.  It is a discipline, but you will thank yourself.  
 
 1. ## NextCloud
 I used a Pi4 and a RAID array to build my own Nextcloud server.
