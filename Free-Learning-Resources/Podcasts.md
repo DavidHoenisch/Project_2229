@@ -8,8 +8,3 @@ This is a fairly new one for me.  It is hosted by John Hubbard who has become my
 
 2. ## [Darknet Diaries](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vZGFya25ldGRpYXJpZXM)
 This one is great for learning about the world of cybersecurity in general, not necessarily specific skills.
-
-
-
-
-
