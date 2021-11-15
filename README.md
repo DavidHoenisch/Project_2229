@@ -14,6 +14,6 @@ I will divide up this repo into relevent folders, and markdown files for ease of
 
 I welcome any suggestions, edits and the like.  Open issues, or email me at dh1689@pm.me
 
-You can verify my commits locally with [GPG Key](pubkey.asc).
+You can verify my commits locally with my public [GPG Key](pubkey.asc).
 
 
