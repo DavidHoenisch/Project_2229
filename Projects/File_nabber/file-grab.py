@@ -35,7 +35,7 @@ parser.add_option("-o", "--output", dest="OUT", type="str", help="Specify where 
 ssh = SSHClient()
 host_key = ssh.load_system_host_keys()
 no_key = ssh.set_missing_host_key_policy(AutoAddPolicy())
-connect = ssh.connect(options.DESTINATION, username='root', password='luther1517')
+connect = ssh.connect(options.DESTINATION, username='root', password='YOUR-PASSWORD-HERE')
 scp_client = SCPClient(ssh.get_transport())
 
 welcome()
